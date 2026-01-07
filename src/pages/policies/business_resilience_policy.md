@@ -1,3 +1,25 @@
+---
+title: Business Resilience Policy
+description: Our business resilience policy
+keywords: 'policy,business resilience,security,markdown'
+---
+
+<PageDescription>
+
+This page describes Data Migrators' business resilience policy.
+
+</PageDescription>
+
+<AnchorLinks>
+    <AnchorLink>Purpose and Scope</AnchorLink>
+    <AnchorLink>Resilience Objectives</AnchorLink>
+    <AnchorLink>Governance and Roles</AnchorLink>
+    <AnchorLink>Critical Business Functions (CBF)</AnchorLink>
+    <AnchorLink>Resilience Strategy</AnchorLink>
+    <AnchorLink>Testing and Maintenance</AnchorLink>
+    <AnchorLink>Communication Plan</AnchorLink>
+</AnchorLinks>
+
 # Business Resilience Policy
 
 ## 1. Purpose and Scope
