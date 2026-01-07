@@ -56,7 +56,7 @@ The following functions are prioritized for recovery in the event of a disruptio
 ---
 
 ## 6. Testing and Maintenance
-A plan is only as good as its last test. **[Company Name]** commits to:
+A plan is only as good as its last test. Data Migrators commits to:
 
 * **Tabletop Exercises:** Annual walkthroughs of "What-if" scenarios (e.g., AWS Region outage, Ransomware).
 * **DR Drills:** Semi-annual technical failover tests to confirm RTO/RPO targets are met.
