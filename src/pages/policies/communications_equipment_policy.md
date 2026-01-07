@@ -6,20 +6,21 @@ keywords: 'policy,equipment,laptop,phone,security,markdown'
 
 <PageDescription>
 
-This page describes Data Migrators' policy on the use of communications equipment such as laptops and phones.
+This page describes Data Migrators' policy on the use of communications
+equipment such as laptops and phones.
 
 </PageDescription>
 
 <AnchorLinks>
-  <AnchorLink>Overview</AnchorLink>
-  <AnchorLink>Purpose</AnchorLink>
-  <AnchorLink>Scope</AnchorLink>
-  <AnchorLink>Policy</AnchorLink>
-  <AnchorLink>Policy Compliance</AnchorLink>
-  <AnchorLink>Exceptions</AnchorLink>
-  <AnchorLink>Non-compliance</AnchorLink>
-  <AnchorLink>Related Documents</AnchorLink>
-  <AnchorLink>Definitions and Terms</AnchorLink>
+<AnchorLink>Overview</AnchorLink>
+<AnchorLink>Purpose</AnchorLink>
+<AnchorLink>Scope</AnchorLink>
+<AnchorLink>Policy</AnchorLink>
+<AnchorLink>Policy Compliance</AnchorLink>
+<AnchorLink>Exceptions</AnchorLink>
+<AnchorLink>Non-compliance</AnchorLink>
+<AnchorLink>Related Documents</AnchorLink>
+<AnchorLink>Definitions and Terms</AnchorLink>
 </AnchorLinks>
 
 ## Overview
@@ -38,54 +39,33 @@ data network of Data Migrators.
 
 ## Policy
 
-1. Item
-2. Item
-   * Mixed
-   * Mixed  
-3. Item
+1.  The security features necessary to minimize risks to communication
+    equipment must be configured in the equipment before it is placed
+    into service. There are two possible roles for the staff that
+    manages the communication equipment: monitoring and administrator.
+    The monitoring role has read only privileges. The administrator role
+    is able to change configuration parameters. All issued commands by
+    users will be recorded, as well as any other security events that
+    may pose a threat to the equipment.
+1.  Local users are not allowed on communication equipment. Everyone
+    must authenticate through the central repository of users using a
+    protocol that reduces the risk of identity theft.
 
-
-
-1. First ordered list item
-2. Item with a nested item
-   1. Nested list item
-3. In markdown, the actual numbers don’t matter, just that it’s a number
-4. In markdown, the actual numbers don’t matter, just that it’s a number
-
-
-
-5.  The security features necessary to minimize risks to
-    communication equipment must be configured in the equipment
-    before it is placed into service. There are two possible roles
-    for the staff that manages the communication equipment:
-    monitoring and administrator. The monitoring role has read only
-    privileges. The administrator role is able to change
-    configuration parameters. All issued commands by users will be
-    recorded, as well as any other security events that may pose a
-    threat to the equipment.
-
-6.  Local users are not allowed on communication equipment. Everyone
-    must authenticate through the central repository of users using
-    a protocol that reduces the risk of identity theft.
-
-7.  All information transmitted from the device must be encrypted by
-    a strong encryption algorithm to minimize the risks of
-    eavesdropping on the communications and man-in-the-middle
-    attacks.
-
-8.  The events recorded by the communication equipment must be kept
-    in storage media that is subject to a regular backup process.
-    The process of maintaining these backups must ensure that the
+1. All information transmitted from the device must be encrypted by a
+    strong encryption algorithm to minimize the risks of eavesdropping
+    on the communications and man-in-the-middle attacks.
+1. The events recorded by the communication equipment must be kept in
+    storage media that is subject to a regular backup process. The
+    process of maintaining these backups must ensure that the
     information is not amended.
-
-9.  The password of the communication equipment\'s administrator
-    user must not be known by anyone on the staff that manages the
-    equipment. If, for any reason, it is necessary to make use of
-    the highest administrative privileges within the device, then
-    the staff must file a request to the internal security division
-    for the password attaching the justification for its use and
-    completing the required forms. The password must then be reset
-    by the highest administrator to maintain security.
+1. The password of the communication equipment\'s administrator user
+    must not be known by anyone on the staff that manages the equipment.
+    If, for any reason, it is necessary to make use of the highest
+    administrative privileges within the device, then the staff must
+    file a request to the internal security division for the password
+    attaching the justification for its use and completing the required
+    forms. The password must then be reset by the highest administrator
+    to maintain security.
 
 ## Policy Compliance
 
@@ -112,8 +92,9 @@ None.
 
 ## Definitions and Terms
 
-The following definition and terms can be found in the [SANS Glossary](https://www.sans.org/security-resources/glossary-of-terms/):
+The following definition and terms can be found in the [SANS
+Glossary](https://www.sans.org/security-resources/glossary-of-terms/):
 
--   Eavesdropping
--   Man-in-the-middle Attack
--   Strong Encryption
+- Eavesdropping
+- Man-in-the-middle Attack
+- Strong Encryption

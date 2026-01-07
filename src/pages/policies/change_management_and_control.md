@@ -32,16 +32,15 @@ Data Migrators' management has recognised the importance of change management an
 ## Purpose
 
 The purpose of this policy is to establish management direction and high-level objectives for change management and control. This policy will ensure the implementation of change management and control strategies to mitigate associated risks such as:
-•	Information being corrupted and/or destroyed;  
-•	Computer performance being disrupted and/or degraded;
-•	Productivity losses being incurred; and 
-•	Exposure to reputational risk.
- 
+
+- Information being corrupted and/or destroyed;
+- Computer performance being disrupted and/or degraded;
+- Productivity losses being incurred; and 
+- Exposure to reputational risk.
 
 ## Scope
 
-This policy applies to all parties operating within the company’s network environment or utilising Information Resources.  It covers the data networks, LAN servers and personal computers (stand-alone or network-enabled), located at company offices and company production related locations, where these systems are under the jurisdiction and/or ownership of the company or subsidiaries, and any personal computers, laptops, mobile device and or servers authorised to access the company’s  data networks. No employee is exempt from this policy. 
- 
+This policy applies to all parties operating within the company’s network environment or utilising Information Resources.  It covers the data networks, LAN servers and personal computers (stand-alone or network-enabled), located at company offices and company production related locations, where these systems are under the jurisdiction and/or ownership of the company or subsidiaries, and any personal computers, laptops, mobile device and or servers authorised to access the company’s  data networks. No employee is exempt from this policy.
 
 ## Policy
 
@@ -200,7 +199,7 @@ A record or series of records which allows the processing carried out by a compu
 
 #### Information Resources
 
-All data, information as well as the hardware, software, personnel and processes involved with the storage, processing and output of such information.  This includes data networks, servers, PC’s, storage media, printer, photo copiers, fax machines, supporting equipment, fall-back equipment and back-up media.
+All data, information as well as the hardware, software, personnel and processes involved with the storage, processing and output of such information.  This includes data networks, servers, PC's, storage media, printer, photo copiers, fax machines, supporting equipment, fall-back equipment and back-up media.
 
 #### Abbreviations
 
