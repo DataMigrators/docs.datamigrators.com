@@ -22,6 +22,8 @@
       path: /policies/acceptable_use_policy
     - title: Anti-virus Guidelines
       path: /policies/anti_virus_guidelines
+    - title: Business Resiliency Policy
+
     - title: Change Management and Control
       path: /policies/change_management_and_control
     - title: Cloud Computing Policy
@@ -34,10 +36,10 @@
       path: /policies/cybersecurity_executive_summary
     - title: Data Breach Response
       path: /policies/data_breach_response
-    - title: Database Credentials Policy
-      path: /policies/database_credentials_policy
     - title: Data Protection Policy
       path: /policies/data_protection_policy
+    - title: Database Credentials Policy
+      path: /policies/database_credentials_policy
     - title: Disaster Recovery plan Policy
       path: /policies/disaster_recovery_plan_policy
     - title: Email Policy
@@ -104,5 +106,7 @@
       path: /policies/technology_equipment_disposal_policy
     - title: Vendor Management Policy
       path: /policies/vendor_management_policy
+    - title: Vulnerability Management Policy
+      path: /policies/vulnerability_management_policy
     - title: Workstation Security for HIPPA Policy
       path: /policies/workstation_security_for_hipaa_policy

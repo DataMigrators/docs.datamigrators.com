@@ -12,15 +12,15 @@ equipment such as laptops and phones.
 </PageDescription>
 
 <AnchorLinks>
-<AnchorLink>Overview</AnchorLink>
-<AnchorLink>Purpose</AnchorLink>
-<AnchorLink>Scope</AnchorLink>
-<AnchorLink>Policy</AnchorLink>
-<AnchorLink>Policy Compliance</AnchorLink>
-<AnchorLink>Exceptions</AnchorLink>
-<AnchorLink>Non-compliance</AnchorLink>
-<AnchorLink>Related Documents</AnchorLink>
-<AnchorLink>Definitions and Terms</AnchorLink>
+    <AnchorLink>Overview</AnchorLink>
+    <AnchorLink>Purpose</AnchorLink>
+    <AnchorLink>Scope</AnchorLink>
+    <AnchorLink>Policy</AnchorLink>
+    <AnchorLink>Policy Compliance</AnchorLink>
+    <AnchorLink>Exceptions</AnchorLink>
+    <AnchorLink>Non-compliance</AnchorLink>
+    <AnchorLink>Related Documents</AnchorLink>
+    <AnchorLink>Definitions and Terms</AnchorLink>
 </AnchorLinks>
 
 ## Overview

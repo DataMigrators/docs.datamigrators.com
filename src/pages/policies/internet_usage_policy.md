@@ -55,7 +55,7 @@ The Internet usage Policy applies to all Internet users (individuals
 working for the company, including permanent full-time and part-time
 employees, contract workers, temporary agency workers, business
 partners, and vendors) who access the Internet through the computing or
-networking resources. The company\'s Internet users are expected to be
+networking resources. The company's Internet users are expected to be
 familiar with and to comply with this policy, and are also required to
 use their common sense and exercise their good judgment while using
 Internet services.
@@ -320,9 +320,9 @@ various systems across which it has been transmitted.
 
 When using company resources to access and use the Internet, users must
 realize they represent the company. Whenever employees state an
-affiliation to the company, they must also clearly indicate that \"the
+affiliation to the company, they must also clearly indicate that "the
 opinions expressed are my own and not necessarily those of the
-company\". Questions may be addressed to the IT Department.
+company". Questions may be addressed to the Directors.
 
 ### Company Materials
 
@@ -391,8 +391,7 @@ potential Internet user is required to read this Internet usage Policy
 and sign an acknowledgment form (located on the last page of this
 document). The signed acknowledgment form should be turned in and will
 be kept on file at the facility granting the access. For questions on
-the Internet usage Policy, contact the Information Technology (IT)
-Department.
+the Internet usage Policy, contact the Directors.
 
 ## Related Documents
 

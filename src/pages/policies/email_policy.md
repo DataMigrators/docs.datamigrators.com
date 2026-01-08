@@ -36,7 +36,7 @@ This policy covers appropriate use of any email sent from a Data Migrators email
 
 ## Policy
 
-1.  All use of email must be consistent with Data Migrators policies and procedures of ethical conduct, safety, compliance with applicable laws and proper business practices. 
+1.  All use of email must be consistent with Data Migrators policies and procedures of ethical conduct, safety, compliance with applicable laws and proper business practices.
 
 2.  Data Migrators email account should be used primarily for Data Migrators business-related purposes; personal communication is permitted on a limited basis, but non-Data Migrators related commercial uses are prohibited.
 
@@ -55,7 +55,7 @@ This policy covers appropriate use of any email sent from a Data Migrators email
 
 7.  Users are prohibited from automatically forwarding Data Migrators email to a third party email system (noted in 4.8 below). Individual messages which are forwarded by the user must not contain Data Migrators confidential or above information. 
 
-8.  Users are prohibited from using third-party email systems and storage servers such as Google, Yahoo, and MSN Hotmail etc. to conduct Data Migrators business, to create or memorialize any binding transactions, or to store or retain email on behalf of Data Migrators.  Such communications and transactions should be conducted through proper channels using Data Migrators-approved documentation. 
+8.  Users are prohibited from using third-party email systems and storage servers such as Google, Yahoo, and MSN Hotmail etc. to conduct Data Migrators business, to create or memorialize any binding transactions, or to store or retain email on behalf of Data Migrators. Such communications and transactions should be conducted through proper channels using Data Migrators-approved documentation.
 
 9.  Using a reasonable amount of Data Migrators resources for personal emails is acceptable, but non-work related email shall be saved in a separate folder from work related email. Sending chain letters or joke emails from a Data Migrators email account is prohibited. 
 

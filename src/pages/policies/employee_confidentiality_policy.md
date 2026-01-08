@@ -20,7 +20,7 @@ This page describes Data Migrators' employee confidentiality policy.
 
 ## Purpose
 
-We designed our company confidentiality policy to explain how we expect our employees to treat confidential information. Employees will unavoidably receive and handle personal and private information about clients, partners and our company. We want to make sure that this information is well-protected.
+We designed our company confidentiality policy to explain how we expect our employees to treat confidential information. Employees will unavoidably receive and handle personal and private information about clients, partners and our company. We want to make sure that this information is well protected.
 
 We must protect this information for two reasons. It may:
 -	Be legally binding (e.g. sensitive customer data.)

@@ -75,10 +75,9 @@ information and definitions, see the *Acceptable Use Policy*.
 Authorized Users will not use Data Migrators networks to access the
 Internet for outside business interests.
 
-For additional information regarding Data Migrators\'s remote access
+For additional information regarding Data Migrators's remote access
 connection options, including how to obtain a remote access login, free
-anti-virus software, troubleshooting, etc., go to the Remote Access
-Services website (company url).
+anti-virus software, troubleshooting, etc., contact the Directors.
 
 ### Requirements
 

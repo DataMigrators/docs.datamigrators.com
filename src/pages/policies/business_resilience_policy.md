@@ -27,16 +27,12 @@ The purpose of this policy is to ensure that Data Migrators can anticipate, prep
 
 **Scope:** This policy applies to all employees, contractors, and third-party vendors. It covers all physical operations and cloud-hosted environments (e.g., AWS, Azure, GCP).
 
----
-
 ## 2. Resilience Objectives
 Our goal is to protect our people, our reputation, and our customers' data. We aim to achieve the following metrics:
 
 * **Recovery Time Objective (RTO):** Critical customer-facing services must be restored within **4 business hours** of a declared disaster.
 * **Recovery Point Objective (RPO):** Maximum allowable data loss is **1 hour** of transactions.
 * **Availability:** Maintain a service level agreement (SLA) of **99.9%** uptime.
-
----
 
 ## 3. Governance and Roles
 
@@ -47,8 +43,6 @@ Our goal is to protect our people, our reputation, and our customers' data. We a
 | **Product/DevOps Lead** | Ensuring software architecture supports high availability and DR. |
 | **Customer Success** | Managing communication with clients during service disruptions. |
 
----
-
 ## 4. Critical Business Functions (CBF)
 The following functions are prioritized for recovery in the event of a disruption:
 
@@ -56,8 +50,6 @@ The following functions are prioritized for recovery in the event of a disruptio
 2.  **Customer Support Systems:** Ticketing and communication channels.
 3.  **Software Development Pipeline:** CI/CD tools required for security patching.
 4.  **Financial Operations:** Payroll and accounts receivable/payable.
-
----
 
 ## 5. Resilience Strategy
 
@@ -75,16 +67,12 @@ The following functions are prioritized for recovery in the event of a disruptio
 * **Immutable Logs:** Maintain tamper-proof audit logs to detect and recover from ransomware.
 * **Security Patches:** Critical security vulnerabilities in the software must be patched within **[e.g., 24-48]** hours.
 
----
-
 ## 6. Testing and Maintenance
 A plan is only as good as its last test. Data Migrators commits to:
 
 * **Tabletop Exercises:** Annual walkthroughs of "What-if" scenarios (e.g., AWS Region outage, Ransomware).
 * **DR Drills:** Semi-annual technical failover tests to confirm RTO/RPO targets are met.
 * **Policy Review:** This policy is reviewed annually or after any major architectural change.
-
----
 
 ## 7. Communication Plan
 In the event of a disruption affecting customers:

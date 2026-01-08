@@ -15,6 +15,20 @@ This page describes Data Migrators’ policy on change management and control.
   <AnchorLink>Purpose</AnchorLink>
   <AnchorLink>Scope</AnchorLink>
   <AnchorLink>Policy</AnchorLink>
+  <AnchorLink>Operational Procedures</AnchorLink>
+  <AnchorLink>Documented Change</AnchorLink>
+  <AnchorLink>Risk Management</AnchorLink>
+  <AnchorLink>Change Classification</AnchorLink>
+  <AnchorLink>Testing</AnchorLink>
+  <AnchorLink>Changes Affecting SLA‘s</AnchorLink>
+  <AnchorLink>Version Control</AnchorLink>
+  <AnchorLink>Approval</AnchorLink>
+  <AnchorLink>Communicating Changes</AnchorLink>
+  <AnchorLink>Implementation</AnchorLink>
+  <AnchorLink>Fall Back</AnchorLink>
+  <AnchorLink>Documentation</AnchorLink>
+  <AnchorLink>Business Continuity Plans (BCP)</AnchorLink>
+  <AnchorLink>Change Monitoring</AnchorLink>
   <AnchorLink>Roles And Responsibilities</AnchorLink>
   <AnchorLink>Policy Compliance</AnchorLink>
   <AnchorLink>Exceptions</AnchorLink>
@@ -87,7 +101,7 @@ All change requests shall be prioritised in terms of benefits, urgency, effort r
 
 Changes shall be tested in an isolated, controlled, and representative environment (where such an environment is feasible) prior to implementation to minimise the effect on the relevant business process, to assess its impact on operations and security and to verify that only intended and approved changes were made. 
 
-### Changes Affecting Sla‘s
+### Changes Affecting SLA‘s
 
 The impact of change on existing SLA’s shall be considered. Where applicable, changes to the SLA shall be controlled through a formal change process which includes contractual amendments. 
 
@@ -116,7 +130,7 @@ Procedures for aborting and recovering from unsuccessful changes shall be docume
 Information resources documentation shall be updated on the completion of each change and old documentation shall be archived or disposed of as per the documentation and data retention policies.
 Information resources documentation is used for reference purposes in various scenarios i.e. further development of existing information resources as well as ensuring adequate knowledge transfer in the event of the original developer and/or development house being unavailable.  It is therefore imperative that information resources documentation is complete, accurate and kept up to date with the latest changes. Policies and procedures, affected by software changes, shall be updated on completion of each change. 
 
-### Business Continuity Plans (Bcp)
+### Business Continuity Plans (BCP)
 
 Business continuity plans shall be updated with relevant changes, managed through the change control process. Business continuity plans rely on the completeness, accuracy and availability of BCP documentation.  BCP documentation is the road map used to minimise disruption to critical business processes where possible, and to facilitate their rapid recovery in the event of disasters.  
 

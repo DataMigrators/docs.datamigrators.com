@@ -71,9 +71,7 @@ disciplinary action, up to and including termination of employment.
 
 ## Related Documents
 
--   Risk Assessment Process
-
--   Third Party Agreement
+- [Risk Management Policy](risk_management_policy)
 
 ## Definitions and Terms
 
