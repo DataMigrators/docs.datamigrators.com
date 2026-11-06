@@ -75,7 +75,7 @@ is owned or leased by Data Migrators.
 
 ### General Use and Ownership 
 
-1.  Data Migrators proprietary information stored on electronic and computing devices whether owned or leased by Data Migrators, the employee or a third party, remains the sole property of Data Migrators. You must ensure through legal or technical means that proprietary information is protected in accordance with the *Data Protection Standard.*
+1.  Data Migrators proprietary information stored on electronic and computing devices whether owned or leased by Data Migrators, the employee or a third party, remains the sole property of Data Migrators. You must ensure through legal or technical means that proprietary information is protected in accordance with the [Data Protection Standard](data_protection_standard).
 
 2.  You have a responsibility to promptly report the theft, loss or unauthorized disclosure of Data Migrators proprietary information.
 
@@ -299,11 +299,10 @@ disciplinary action, up to and including termination of employment.
 
 ## Related Documents
 
--   Data Classification Policy
--   Data Protection Standard
--   Social Media Policy
--   Minimum Access Policy
--   Password Policy
+-   [Data Protection Policy](data_protection_policy)
+-   [Password Policy](password_protection_policy)
+-   [Password Constructions Guidelines](password_constructions_guidelines)
+-   [Data Protection Policy](data_protection_standard)    
 
 ## Definitions and Terms
 
