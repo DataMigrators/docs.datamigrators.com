@@ -128,10 +128,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 This policy is to be read in conjunction with existing University policy documents which include but are not limited to the following:
 
- - Research Policy
- - Privacy Policy
- - Information Technology and Security Policy
- - Intellectual Property Policy
+ - [Information Lifecycle Policy](information_life_cycle_policy)
 
 
 ## Definitions and Terms
